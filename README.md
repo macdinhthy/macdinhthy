@@ -20,11 +20,9 @@ Tôi luôn thích thú với việc thử nghiệm và tạo ra các dự án c�
 Tôi luôn tự học và nghiên cứu các xu hướng mới trong lĩnh vực phát triển web. Tôi đọc sách, tham gia vào các khóa học trực tuyến và thực hành liên tục để cập nhật kiến thức và kỹ năng mới. Tôi không ngừng khám phá và áp dụng các công nghệ mới nhằm tối ưu hóa hiệu suất và tạo ra trải nghiệm người dùng tốt nhất.
 
 🌟 Mục tiêu:
-Mục tiêu của tôi là trở thành một nhà phát triển phần mềm và phát triển web hàng đầu
-
-, đóng góp vào sự phát triển công nghệ và mang lại giá trị cho người dùng thông qua các ứng dụng web chất lượng cao. Tôi mong muốn làm việc trong một môi trường thúc đẩy sự sáng tạo và phát triển cá nhân, nơi tôi có thể thử thách bản thân và học hỏi từ những người đồng nghiệp giỏi.
+Mục tiêu của tôi là trở thành một nhà phát triển phần mềm và phát triển web hàng đầu, đóng góp vào sự phát triển công nghệ và mang lại giá trị cho người dùng thông qua các ứng dụng web chất lượng cao. Tôi mong muốn làm việc trong một môi trường thúc đẩy sự sáng tạo và phát triển cá nhân, nơi tôi có thể thử thách bản thân và học hỏi từ những người đồng nghiệp giỏi.
 
 📫 Liên hệ:
-Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email: [email protected] Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.
+Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email: macdinhthy@gmail.com Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.
 
 ✨ Cảm ơn bạn đã ghé thăm trang Github của tôi! Hãy xem qua các dự án của tôi và đừng ngần ngại để lại một lời nhắn.
