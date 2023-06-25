@@ -50,7 +50,7 @@
 <p><strong>📚 Tự học và nâng cao: Tôi luôn tự học và nghiên cứu các xu hướng mới trong lĩnh vực phát triển web. Tôi đọc sách, tham gia vào các khóa học trực tuyến và thực hành liên tục để cập nhật kiến thức và kỹ năng mới. Tôi không ngừng khám phá và áp dụng các công nghệ mới nhằm tối ưu hóa hiệu suất và tạo ra trải nghiệm người dùng tốt nhất.</strong></p>
 <p><strong>🌟 Mục tiêu: Mục tiêu của tôi là trở thành một nhà phát triển phần mềm và phát triển web hàng đầu, đóng góp vào sự phát triển công nghệ và mang lại giá trị cho người dùng thông qua các ứng dụng web chất lượng cao. Tôi mong muốn làm việc trong một môi trường thúc đẩy sự sáng tạo và phát triển cá nhân, nơi tôi có thể thử thách bản thân và học hỏi từ những người đồng nghiệp giỏi.</strong></p>
 <p>
-  <strong>📫 Liên hệ: Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email:<a href="mailto:macdinhthy@gmail.com" target="_top">macdinhthy@gmail.com</a>Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.</strong>
+  <strong>📫 Liên hệ: Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email: <a href="mailto:macdinhthy@gmail.com" target="_top">macdinhthy@gmail.com</a>Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.</strong>
 </p>
 <br>
 
