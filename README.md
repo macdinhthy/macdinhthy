@@ -1,29 +1,90 @@
-WELCOME TO MY PAGE !!!
+<!-- Thydev -->
+<a href="#" target="_blank">
+  <img src="svg/thydev.svg" width="1200" alt="macdinhthy" />
+</a>
 
-Software Developer | Web Front-end Developer
+<h2 align="center">🚀 Kĩ năng 🚀</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
 
-👋 Xin chào! Tôi là Mạc Đỉnh Thy, một nhà phát triển phần mềm và phát triển web đam mê sáng tạo và giải quyết các thách thức kỹ thuật. Tôi tận hưởng việc xây dựng ứng dụng web đẹp, tương tác và mang tính thực tế bằng cách sử dụng công nghệ hiện đại.
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title=macdinhthy>
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<br>
 
-🚀 Kỹ năng:
-- Ngôn ngữ lập trình chính: JavaScript, HTML, CSS
-- Frameworks: ReactJS, Angular, ExpressJS
-- Cơ sở dữ liệu: MySQL, MongoDB
-- Công cụ: Git, npm, Visual Studio Code
-- Kiến thức về Responsive Web Design và cross-browser compatibility
+<h2 align="center">💼 Kinh nghiệm làm việc 💼</h2>
+<br>
+<p><strong>💼 Kinh nghiệm làm việc: Tôi đã có kinh nghiệm làm việc trong một số dự án phát triển phần mềm và phát triển web. Tôi đã tham gia vào việc xây dựng ứng dụng web từ đầu, từ việc thiết kế giao diện người dùng cho đến triển khai và bảo trì. Tôi có khả năng làm việc độc lập và trong nhóm, và thích đối mặt với các thách thức kỹ thuật để tạo ra các giải pháp sáng tạo và hiệu quả.</strong></p>
+<p><strong>💡 Dự án cá nhân: Tôi luôn thích thú với việc thử nghiệm và tạo ra các dự án cá nhân để nâng cao kỹ năng và khám phá công nghệ mới. Tôi đã phát triển và triển khai các ứng dụng web như trang web portfolio cá nhân, blog cá nhân và các ứng dụng quản lý nhiệm vụ. Đồng thời, tôi cũng thích tham gia vào các dự án mã nguồn mở để góp phần vào cộng đồng phát triển phần mềm.</strong></p>
+<p><strong>📚 Tự học và nâng cao: Tôi luôn tự học và nghiên cứu các xu hướng mới trong lĩnh vực phát triển web. Tôi đọc sách, tham gia vào các khóa học trực tuyến và thực hành liên tục để cập nhật kiến thức và kỹ năng mới. Tôi không ngừng khám phá và áp dụng các công nghệ mới nhằm tối ưu hóa hiệu suất và tạo ra trải nghiệm người dùng tốt nhất.</strong></p>
+<p><strong>🌟 Mục tiêu: Mục tiêu của tôi là trở thành một nhà phát triển phần mềm và phát triển web hàng đầu, đóng góp vào sự phát triển công nghệ và mang lại giá trị cho người dùng thông qua các ứng dụng web chất lượng cao. Tôi mong muốn làm việc trong một môi trường thúc đẩy sự sáng tạo và phát triển cá nhân, nơi tôi có thể thử thách bản thân và học hỏi từ những người đồng nghiệp giỏi.</strong></p>
+<p>
+  <strong>📫 Liên hệ: Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email:<a href="mailto:macdinhthy@gmail.com" target="_top">macdinhthy@gmail.com</a>Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.</strong>
+</p>
+<br>
 
-💼 Kinh nghiệm làm việc:
-Tôi đã có kinh nghiệm làm việc trong một số dự án phát triển phần mềm và phát triển web. Tôi đã tham gia vào việc xây dựng ứng dụng web từ đầu, từ việc thiết kế giao diện người dùng cho đến triển khai và bảo trì. Tôi có khả năng làm việc độc lập và trong nhóm, và thích đối mặt với các thách thức kỹ thuật để tạo ra các giải pháp sáng tạo và hiệu quả.
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/dih.yht" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thydev-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/dihyht/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thydev-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/dih.yht_/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thydev-instagram" />
+  </a>
+  <a href="mailto:macdinhthy@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thydev-email" />
+  </a>
+</div>
 
-💡 Dự án cá nhân:
-Tôi luôn thích thú với việc thử nghiệm và tạo ra các dự án cá nhân để nâng cao kỹ năng và khám phá công nghệ mới. Tôi đã phát triển và triển khai các ứng dụng web như trang web portfolio cá nhân, blog cá nhân và các ứng dụng quản lý nhiệm vụ. Đồng thời, tôi cũng thích tham gia vào các dự án mã nguồn mở để góp phần vào cộng đồng phát triển phần mềm.
+<br>
 
-📚 Tự học và nâng cao:
-Tôi luôn tự học và nghiên cứu các xu hướng mới trong lĩnh vực phát triển web. Tôi đọc sách, tham gia vào các khóa học trực tuyến và thực hành liên tục để cập nhật kiến thức và kỹ năng mới. Tôi không ngừng khám phá và áp dụng các công nghệ mới nhằm tối ưu hóa hiệu suất và tạo ra trải nghiệm người dùng tốt nhất.
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/thydev-quotes.svg" width="846" height="150" alt="thydev-official" />
+</a>
 
-🌟 Mục tiêu:
-Mục tiêu của tôi là trở thành một nhà phát triển phần mềm và phát triển web hàng đầu, đóng góp vào sự phát triển công nghệ và mang lại giá trị cho người dùng thông qua các ứng dụng web chất lượng cao. Tôi mong muốn làm việc trong một môi trường thúc đẩy sự sáng tạo và phát triển cá nhân, nơi tôi có thể thử thách bản thân và học hỏi từ những người đồng nghiệp giỏi.
-
-📫 Liên hệ:
-Nếu bạn có bất kỳ câu hỏi hoặc quan tâm, hãy liên hệ với tôi qua email: macdinhthy@gmail.com Tôi luôn sẵn sàng để trao đổi và hợp tác trong các dự án phát triển phần mềm và phát triển web.
-
-✨ Cảm ơn bạn đã ghé thăm trang Github của tôi! Hãy xem qua các dự án của tôi và đừng ngần ngại để lại một lời nhắn.
