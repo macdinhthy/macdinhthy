@@ -59,9 +59,8 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/dih.yht" target="blank">
-    <img src="https://icons8.com/icon/b2h5ow1Hfzpc/facebook" alt="thydev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thydev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/dihyht/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thydev-linkedin" />
   </a>
   <a href="https://www.instagram.com/dih.yht_/" target="blank">
