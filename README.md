@@ -3,7 +3,7 @@
   <img src="svg/thydev.svg" width="1200" alt="macdinhthy" />
 </a>
 
-<h2 align="center">🚀 Kĩ năng 🚀</h2>
+<h2 align="center">🚀 Skills 🚀</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/javascript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -43,7 +43,7 @@
 </div>
 <br>
 
-<h2 align="center">💼 Kinh nghiệm làm việc 💼</h2>
+<h2 align="center">💼 Work Experience 💼</h2>
 <br>
 <p><strong>💼 Kinh nghiệm làm việc: Tôi đã có kinh nghiệm làm việc trong một số dự án phát triển phần mềm và phát triển web. Tôi đã tham gia vào việc xây dựng ứng dụng web từ đầu, từ việc thiết kế giao diện người dùng cho đến triển khai và bảo trì. Tôi có khả năng làm việc độc lập và trong nhóm, và thích đối mặt với các thách thức kỹ thuật để tạo ra các giải pháp sáng tạo và hiệu quả.</strong></p>
 <p><strong>💡 Dự án cá nhân: Tôi luôn thích thú với việc thử nghiệm và tạo ra các dự án cá nhân để nâng cao kỹ năng và khám phá công nghệ mới. Tôi đã phát triển và triển khai các ứng dụng web như trang web portfolio cá nhân, blog cá nhân và các ứng dụng quản lý nhiệm vụ. Đồng thời, tôi cũng thích tham gia vào các dự án mã nguồn mở để góp phần vào cộng đồng phát triển phần mềm.</strong></p>
