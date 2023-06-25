@@ -57,15 +57,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/dih.yht" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thydev-facebook" />
+    <img src="/img/icons8-facebook-70.png" alt="thydev-facebook" />
   </a>
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thydev-linkedin" />
+  <a href="https://www.linkedin.com/in/dihyht/" target="blank">
+    <img src="img/icons8-linkedin-70.png" alt="thydev-linkedin" />
   </a>
   <a href="https://www.instagram.com/dih.yht_/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thydev-instagram" />
+    <img src="img/icons8-instagram-70.png" alt="thydev-instagram" />
   </a>
   <a href="mailto:macdinhthy@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thydev-email" />
+    <img src="img/icons8-mail-70.png" alt="thydev-email" />
+  </a>
+  <a href="https://open.spotify.com/user/31y6pm5m6vyhdvnmpscer6hdskoi" target="blank">
+    <img src="img/icons8-spotify-70.png" alt="thydev-spotyfy" />
   </a>
 </div>
 
